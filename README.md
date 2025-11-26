@@ -69,10 +69,7 @@ An App that aims to stop cheating in online exams with the power of AI and ML, c
 7. The backend should now run on `localhost` with default `8000` or  specified port
   
   
-## Useful Links  
-  
-- [Frontend Repository](https://github.com/prathamesh-mutkure/anti-cheat-exam-app)  
-- [Project Thesis](https://drive.google.com/file/d/1fXXXjcE74pIOEwavstTmporuOECc7cUu/view)  (Submited in diploma)
+
 
   
 ## Need help?  
